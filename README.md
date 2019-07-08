@@ -7,4 +7,4 @@ The functionality of the PCH Research Portal is based off GCBootstrap, and then 
 
 ## Design
 Figma projects are used to wireframe, map and design the portal's user interface.
-[PCH Research Portal] (https://www.figma.com/file/Ze37qIheG22tcuh4hAjSYXpS/PCH-GCpedia?node-id=0%3A1)
+[PCH Research Portal](https://www.figma.com/file/Ze37qIheG22tcuh4hAjSYXpS/PCH-GCpedia?node-id=0%3A1)
