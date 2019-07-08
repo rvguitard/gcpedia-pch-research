@@ -2,7 +2,7 @@
 The aim of this project is to design and develop Canadian Heritage's fully customized Research portal on GCPedia. 
 
 ## Research
-The functionality of the PCH Research Portal is based off GCBootstrap, and then visually customized with custom styles. http://www.gcpedia.gc.ca/wiki/GCbootstrap/start-eng
+The functionality of the PCH Research Portal is based off [GCBootstrap](http://www.gcpedia.gc.ca/wiki/GCbootstrap/start-eng), and then visually customized with custom styles. 
 
 
 ## Design
